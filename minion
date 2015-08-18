@@ -1,0 +1,9 @@
+acceptance_wait_time: 10
+random_reauth_delay: 60
+auth_tries: 10
+auth_safemode: False
+ping_interval: 60
+restart_on_error: True
+recon_default: 1000
+recon_max: 59000
+recon_randomize: True
